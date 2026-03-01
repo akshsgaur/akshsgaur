@@ -10,13 +10,8 @@
 
 <!-- Main Typing Intro -->
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&duration=3000&pause=1000&color=FFCB05&center=true&vCenter=true&repeat=true&width=700&height=80&lines=A+wild+AI+Engineer+appeared!;Akshit+used+DEPLOY...+It's+super+effective!;%E2%9A%A1+Catching+agents+one+repo+at+a+time..." alt="Typing SVG" /></a>
-
-<br/>
-
 <!-- Animated Character + Codex walking -->
 <img src="./animated-avatar.svg" alt="Walking pixel character with Codex" width="600" />
-
-<br/>
 
 ---
 
@@ -91,8 +86,8 @@
 
 <br/><br/>
 
-<!-- Activity Graph -->
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=akshsgaur&hide_border=true&bg_color=1a1a2e&color=ffcb05&line=ff0000&point=ffcb05&area=true&area_color=ff000030&custom_title=⚡%20Tall%20Grass%20Activity" />
+<!-- Contribution Grid (amber → red) -->
+<img width="98%" src="./contrib-graph.svg" alt="Contribution Graph" />
 
 ---
 
