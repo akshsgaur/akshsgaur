@@ -1,7 +1,10 @@
 <div align="center">
 
-<!-- Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:cc0000,25:ff0000,50:ffcb05,75:ff0000,100:cc0000&height=220&section=header&text=Akshit%20Gaur&fontSize=42&fontColor=ffffff&fontAlignY=32&desc=%E2%9A%A1%20AI%20Trainer%20%7C%20Gotta%20Build%20%27Em%20All&descSize=16&descColor=ffcb05&descAlignY=55&animation=fadeIn" />
+<!-- Animated Name -->
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=28&duration=3000&pause=99999&color=FFCB05&center=true&vCenter=true&repeat=false&width=700&height=60&lines=Akshit+Gaur" alt="Name" /></a>
+
+<!-- Animated Tagline -->
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=12&duration=3000&pause=99999&color=FF0000&center=true&vCenter=true&repeat=false&width=700&height=40&lines=%E2%9A%A1+AI+Trainer+%7C+Gotta+Build+'Em+All+%E2%9A%A1" alt="Tagline" /></a>
 
 <!-- Main Typing Intro -->
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&duration=3000&pause=1000&color=FFCB05&center=true&vCenter=true&repeat=true&width=700&height=80&lines=A+wild+AI+Engineer+appeared!;Akshit+used+DEPLOY...+It's+super+effective!;%E2%9A%A1+Catching+agents+one+repo+at+a+time..." alt="Typing SVG" /></a>
@@ -92,7 +95,7 @@
 ---
 
 <!-- Footer -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:cc0000,25:ff0000,50:ffcb05,75:ff0000,100:cc0000&height=100&section=footer" />
+<br/>
 
 <img src="./mewtwo-quote.svg" alt="Mewtwo Quote" width="500" />
 
