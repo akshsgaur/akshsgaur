@@ -1,7 +1,9 @@
 <div align="center">
 
-<!-- Animated Name -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=28&duration=3000&pause=99999&color=FFCB05&center=true&vCenter=true&repeat=false&width=700&height=60&lines=Akshit+Gaur" alt="Name" /></a>
+<!-- Animated Name with Spinning Pokeball -->
+<img src="./spinning-pokeball.svg" alt="Pokeball" width="45" height="45" />&nbsp;&nbsp;
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=28&duration=3000&pause=99999&color=FFCB05&center=true&vCenter=true&repeat=false&width=450&height=60&lines=Akshit+Gaur" alt="Name" /></a>
+&nbsp;&nbsp;<img src="./spinning-pokeball.svg" alt="Pokeball" width="45" height="45" />
 
 <!-- Animated Tagline -->
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=12&duration=3000&pause=99999&color=FF0000&center=true&vCenter=true&repeat=false&width=700&height=40&lines=%E2%9A%A1+AI+Trainer+%7C+Gotta+Build+'Em+All+%E2%9A%A1" alt="Tagline" /></a>
@@ -27,20 +29,21 @@
 
 ```
 ╔══════════════════════════════════╗
-║       ⚡ TRAINER CARD ⚡           ║
+║       ⚡ TRAINER CARD ⚡         ║
 ╠══════════════════════════════════╣
 ║                                  ║
 ║  Name:    Akshit Gaur            ║
 ║  Class:   AI Engineer            ║
-║                                  ║ 
+║  Region:  CMU                    ║
+║  Badges:  🥇🥇🥇🥇🥇🥇         ║
 ║                                  ║
 ║  TYPE:    Python / JavaScript    ║
 ║                                  ║
 ║  SPECIAL ABILITY:                ║
 ║  "Makes AI do the boring stuff"  ║
 ║                                  ║
-║  STATUS:  Building  Agents       ║
-║                                  ║
+║  STATUS:  Building 30 Agents     ║
+║           in 30 Days             ║
 ║                                  ║
 ╚══════════════════════════════════╝
 ```
@@ -60,15 +63,15 @@
 
 ```
 ┌─────────────────────────────┐
-│       ⚡ MOVE SET ⚡          │
+│       ⚡ MOVE SET ⚡         │
 ├─────────────────────────────┤
 │                             │
-│  🐍 Python ████████████ 99  │
-│  🤖 AI/ML  ████████████ 99  │
-│  🔗 MCP    ████████████ 99  │
-│  📦 JS     ████████████ 99  │
-│  🧱 LLMs   ████████████ 99  │
-│  🔍 RAG    ████████████ 99  │
+│  🐍 Python ████████████ 99 │
+│  🤖 AI/ML  ██████████░░ 85 │
+│  🔗 MCP    █████████░░░ 78 │
+│  📦 JS     ███████░░░░░ 65 │
+│  🧱 LLMs   ██████████░░ 82 │
+│  🔍 RAG    █████████░░░ 75 │
 │                             │
 └─────────────────────────────┘
 ```
