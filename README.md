@@ -4,7 +4,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:cc0000,25:ff0000,50:ffcb05,75:ff0000,100:cc0000&height=220&section=header&text=Akshit%20Gaur&fontSize=52&fontColor=ffffff&fontAlignY=32&desc=%E2%9A%A1%20AI%20Trainer%20%7C%20Gotta%20Build%20%27Em%20All&descSize=20&descColor=ffcb05&descAlignY=55&animation=fadeIn" />
 
 <!-- Typing SVG -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&duration=3000&pause=1000&color=FFCB05&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=80&lines=A+wild+AI+Engineer+appeared!;Akshat+used+DEPLOY...+It's+super+effective!;%E2%9A%A1+Catching+agents+one+repo+at+a+time..." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&duration=3000&pause=1000&color=FFCB05&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=80&lines=A+wild+AI+Engineer+appeared!;Akshit+used+DEPLOY...+It's+super+effective!;%E2%9A%A1+Catching+agents+one+repo+at+a+time..." alt="Typing SVG" /></a>
 
 </div>
 
