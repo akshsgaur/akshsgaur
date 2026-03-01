@@ -36,8 +36,8 @@
 ║  "Engineering AI Systems that    ║
 ║       Benefit Humanity"          ║
 ║                                  ║
-║  STATUS:  Building 30 Agents     ║
-║           in 30 Days             ║
+║  STATUS:  Building AI Agents     ║
+║                                  ║
 ║                                  ║
 ╚══════════════════════════════════╝
 ```
