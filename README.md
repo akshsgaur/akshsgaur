@@ -30,12 +30,11 @@
 ║  Name:    Akshit Gaur            ║
 ║  Class:   AI Engineer            ║
 ║                                  ║
-║                                  ║
-║                                  ║
 ║  TYPE:    Python / JavaScript    ║
 ║                                  ║
 ║  SPECIAL ABILITY:                ║
-║  "Makes AI do the boring stuff"  ║
+║  "Engineering AI Systems that    ║
+║       Benefit Humanity"          ║
 ║                                  ║
 ║  STATUS:  Building 30 Agents     ║
 ║           in 30 Days             ║
