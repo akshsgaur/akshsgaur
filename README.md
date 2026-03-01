@@ -27,16 +27,16 @@
 ║                                  ║
 ║  Name: Akshat Gaur               ║
 ║  Class: AI Engineer              ║
-║  Region: CMU                     ║
-║  Badges: 🥇🥇🥇🥇🥇🥇          ║
+║                                  ║
+║                                  ║
 ║                                  ║
 ║  TYPE: Python / JavaScript       ║
 ║                                  ║
 ║  SPECIAL ABILITY:                ║
-║  "Makes AI do the boring stuff"  ║
+║  "Engineering AI Systems that    ║
+║        Benefit Humanity"         ║
+║  STATUS: Building Agents         ║
 ║                                  ║
-║  STATUS: Building 30 Agents      ║
-║          in 30 Days              ║
 ║                                  ║
 ╚══════════════════════════════════╝
 ```
