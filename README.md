@@ -18,9 +18,9 @@
 <!-- TRAINER CARD Section Header -->
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=18&duration=4000&pause=5000&color=FF0000&center=true&vCenter=true&repeat=true&width=500&height=50&lines=%F0%9F%8E%B4+TRAINER+CARD+%F0%9F%8E%B4" alt="Trainer Card" /></a>
 
-</div>
-
-<div align="center">
+<table>
+<tr>
+<td align="center">
 
 ```
 ╔══════════════════════════════════╗
@@ -43,10 +43,18 @@
 ╚══════════════════════════════════╝
 ```
 
+</td>
+</tr>
+</table>
+
 ---
 
 <!-- BATTLE STATS Section Header -->
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=18&duration=4000&pause=5000&color=FF0000&center=true&vCenter=true&repeat=true&width=500&height=50&lines=%E2%9A%94%EF%B8%8F+BATTLE+STATS+%E2%9A%94%EF%B8%8F" alt="Battle Stats" /></a>
+
+<table>
+<tr>
+<td align="center">
 
 ```
 ┌─────────────────────────────┐
@@ -62,6 +70,10 @@
 │                             │
 └─────────────────────────────┘
 ```
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -82,12 +94,6 @@
 <!-- Footer -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:cc0000,25:ff0000,50:ffcb05,75:ff0000,100:cc0000&height=100&section=footer" />
 
-```
-"The circumstances of one's build
- are irrelevant; it is what you do
- with the git push that determines
- who you are."
-            — Mewtwo, probably
-```
+<img src="./mewtwo-quote.svg" alt="Mewtwo Quote" width="500" />
 
 </div>
