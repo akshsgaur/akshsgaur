@@ -21,47 +21,33 @@
 </div>
 
 <div align="center">
-<table>
-<tr>
-<td width="50%" valign="top">
 
 ```
 ╔══════════════════════════════════╗
-║       ⚡ TRAINER CARD ⚡         ║
+║       ⚡ TRAINER CARD ⚡           ║
 ╠══════════════════════════════════╣
 ║                                  ║
 ║  Name:    Akshit Gaur            ║
 ║  Class:   AI Engineer            ║
 ║  Region:  CMU                    ║
-║  Badges:  🥇🥇🥇🥇🥇🥇         ║
+║                                  ║
 ║                                  ║
 ║  TYPE:    Python / JavaScript    ║
 ║                                  ║
 ║  SPECIAL ABILITY:                ║
 ║  "Makes AI do the boring stuff"  ║
 ║                                  ║
-║  STATUS:  Building 30 Agents     ║
-║           in 30 Days             ║
+║  STATUS:  Building Agents        ║
+║                                  ║
 ║                                  ║
 ╚══════════════════════════════════╝
 ```
-
-</td>
-<td width="50%" valign="top">
-
-
-
-</td>
-</tr>
-</table>
 </div>
 
 <div align="center">
 
-<!-- Quick Links as Typing -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=10&duration=3500&pause=1000&color=FFCB05&center=true&vCenter=true&repeat=true&width=700&height=40&lines=%F0%9F%94%B4+CMUCanvasMCPServer+%C2%B7+30DaysofAIAgents+%C2%B7+FactGap-PR-Reviewer+%F0%9F%94%B4" alt="Repos" /></a>
 
-[🔴 CMUCanvasMCPServer](https://github.com/akshsgaur/CMUCanvasMCPSErver) · [🔴 30DaysofAIAgents](https://github.com/akshsgaur/30DaysofAIAgents) · [🔴 FactGap-PR-Reviewer](https://github.com/akshsgaur/FactGap-PR-Reviewer) · [🔴 Build-An-LLM-From-Scratch](https://github.com/akshsgaur/Build-An-LLM-From-Scratch)
+
 
 ---
 
