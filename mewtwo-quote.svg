@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="250" viewBox="0 0 800 250">
+  <defs>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&amp;display=swap');
+      text { font-family: 'Press Start 2P', monospace; fill: #FFCB05; font-size: 18px; }
+    </style>
+  </defs>
+  <text x="400" y="45" text-anchor="middle">"The circumstances of one's</text>
+  <text x="400" y="85" text-anchor="middle">build are irrelevant; it is</text>
+  <text x="400" y="125" text-anchor="middle">what you do with the git push</text>
+  <text x="400" y="165" text-anchor="middle">that determines who you are."</text>
+  <text x="400" y="220" text-anchor="middle">— Mewtwo, probably</text>
+</svg>
