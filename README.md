@@ -97,6 +97,6 @@
 <!-- Footer -->
 <br/>
 
-<img src="./mewtwo-quote.svg" alt="Mewtwo Quote" width="500" />
+<img src="./mewtwo-quote.svg" alt="Mewtwo Quote" width="700" />
 
 </div>
