@@ -1,9 +1,9 @@
 <div align="center">
 
-<!-- Animated Name with Spinning Pokeball -->
-<img src="./spinning-pokeball.svg" alt="Pokeball" width="45" height="45" />&nbsp;&nbsp;
+<!-- Name with Pokeballs -->
+<img src="./spinning-pokeball.svg" alt="Pokeball" width="81" height="81" />&nbsp;&nbsp;
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=28&duration=3000&pause=99999&color=FFCB05&center=true&vCenter=true&repeat=false&width=450&height=60&lines=Akshit+Gaur" alt="Name" /></a>
-&nbsp;&nbsp;<img src="./spinning-pokeball.svg" alt="Pokeball" width="45" height="45" />
+&nbsp;&nbsp;<img src="./spinning-pokeball.svg" alt="Pokeball" width="81" height="81" />
 
 <!-- Animated Tagline -->
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=12&duration=3000&pause=99999&color=FF0000&center=true&vCenter=true&repeat=false&width=700&height=40&lines=%E2%9A%A1+AI+Trainer+%7C+Gotta+Build+'Em+All+%E2%9A%A1" alt="Tagline" /></a>
@@ -99,6 +99,6 @@
 <!-- Footer -->
 <br/>
 
-<img src="./mewtwo-quote.svg" alt="Mewtwo Quote" width="700" />
+<img src="./mewtwo-quote.svg" alt="Mewtwo Quote" width="800" />
 
 </div>
