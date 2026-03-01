@@ -1,53 +1,47 @@
 <div align="center">
 
-<!-- Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:cc0000,25:ff0000,50:ffcb05,75:ff0000,100:cc0000&height=220&section=header&text=Akshit%20Gaur&fontSize=42&fontColor=ffffff&fontAlignY=32&desc=%E2%9A%A1%20AI%20Trainer%20%7C%20Gotta%20Build%20%27Em%20All&descSize=16&descColor=ffcb05&descAlignY=55&animation=fadeIn&fontFamily=Press%20Start%202P" />
+<!-- Header Banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:cc0000,25:ff0000,50:ffcb05,75:ff0000,100:cc0000&height=220&section=header&text=Akshit%20Gaur&fontSize=42&fontColor=ffffff&fontAlignY=32&desc=%E2%9A%A1%20AI%20Trainer%20%7C%20Gotta%20Build%20%27Em%20All&descSize=16&descColor=ffcb05&descAlignY=55&animation=fadeIn" />
 
-<!-- Typing SVG -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&duration=3000&pause=1000&color=FFCB05&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=80&lines=A+wild+AI+Engineer+appeared!;Akshit+used+DEPLOY...+It's+super+effective!;%E2%9A%A1+Catching+agents+one+repo+at+a+time..." alt="Typing SVG" /></a>
+<!-- Main Typing Intro -->
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&duration=3000&pause=1000&color=FFCB05&center=true&vCenter=true&repeat=true&width=700&height=80&lines=A+wild+AI+Engineer+appeared!;Akshit+used+DEPLOY...+It's+super+effective!;%E2%9A%A1+Catching+agents+one+repo+at+a+time..." alt="Typing SVG" /></a>
 
 <br/>
 
-<!-- Animated Character -->
-<img src="./animated-avatar.svg" alt="Walking pixel character" width="600" />
+<!-- Animated Character + Codex walking -->
+<img src="./animated-avatar.svg" alt="Walking pixel character with Codex" width="600" />
 
-</div>
+<br/>
 
 ---
 
-<div align="center">
-
-```
-██████████████████████████████████████
-█                                    █
-█        🎴  TRAINER  CARD  🎴       █
-█                                    █
-██████████████████████████████████████
-```
+<!-- TRAINER CARD Section Header -->
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=18&duration=4000&pause=5000&color=FF0000&center=true&vCenter=true&repeat=true&width=500&height=50&lines=%F0%9F%8E%B4+TRAINER+CARD+%F0%9F%8E%B4" alt="Trainer Card" /></a>
 
 </div>
 
-<table align="center">
+<div align="center">
+<table>
 <tr>
 <td width="50%" valign="top">
 
 ```
 ╔══════════════════════════════════╗
-║    ⚡ TRAINER CARD ⚡            ║
+║       ⚡ TRAINER CARD ⚡         ║
 ╠══════════════════════════════════╣
 ║                                  ║
-║  Name: Akshit Gaur               ║
-║  Class: AI Engineer              ║
-║  Region: CMU                     ║
-║  Badges: 🥇🥇🥇🥇🥇🥇          ║
+║  Name:    Akshit Gaur            ║
+║  Class:   AI Engineer            ║
+║  Region:  CMU                    ║
+║  Badges:  🥇🥇🥇🥇🥇🥇         ║
 ║                                  ║
-║  TYPE: Python / JavaScript       ║
+║  TYPE:    Python / JavaScript    ║
 ║                                  ║
 ║  SPECIAL ABILITY:                ║
 ║  "Makes AI do the boring stuff"  ║
 ║                                  ║
-║  STATUS: Building 30 Agents      ║
-║          in 30 Days              ║
+║  STATUS:  Building 30 Agents     ║
+║           in 30 Days             ║
 ║                                  ║
 ╚══════════════════════════════════╝
 ```
@@ -55,65 +49,35 @@
 </td>
 <td width="50%" valign="top">
 
-```
-╔══════════════════════════════════╗
-║  🎒 PARTY POKEMON (REPOS)       ║
-╠══════════════════════════════════╣
-║                                  ║
-║  🔴 CMUCanvasMCPServer           ║
-║     MCP | Academic               ║
-║                                  ║
-║  🔴 30DaysofAIAgents             ║
-║     Agents | Challenge           ║
-║                                  ║
-║  🔴 FactGap-PR-Reviewer          ║
-║     RAG | Reviewer               ║
-║                                  ║
-║  🔴 Build-An-LLM-From-Scratch    ║
-║     LLM | Learning               ║
-║                                  ║
-║  🔴 LicensingServer              ║
-║     Backend | Python             ║
-║                                  ║
-║  🔴 AI-LMS                       ║
-║     JavaScript | AI              ║
-║                                  ║
-╚══════════════════════════════════╝
-```
+
 
 </td>
 </tr>
 </table>
+</div>
 
 <div align="center">
 
-#### ⚡ Quick Links
+<!-- Quick Links as Typing -->
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=10&duration=3500&pause=1000&color=FFCB05&center=true&vCenter=true&repeat=true&width=700&height=40&lines=%F0%9F%94%B4+CMUCanvasMCPServer+%C2%B7+30DaysofAIAgents+%C2%B7+FactGap-PR-Reviewer+%F0%9F%94%B4" alt="Repos" /></a>
 
 [🔴 CMUCanvasMCPServer](https://github.com/akshsgaur/CMUCanvasMCPSErver) · [🔴 30DaysofAIAgents](https://github.com/akshsgaur/30DaysofAIAgents) · [🔴 FactGap-PR-Reviewer](https://github.com/akshsgaur/FactGap-PR-Reviewer) · [🔴 Build-An-LLM-From-Scratch](https://github.com/akshsgaur/Build-An-LLM-From-Scratch)
 
-</div>
-
 ---
 
-<div align="center">
-
-```
-██████████████████████████████████████
-█                                    █
-█        ⚔️  BATTLE  STATS  ⚔️       █
-█                                    █
-██████████████████████████████████████
-```
+<!-- BATTLE STATS Section Header -->
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=18&duration=4000&pause=5000&color=FF0000&center=true&vCenter=true&repeat=true&width=500&height=50&lines=%E2%9A%94%EF%B8%8F+BATTLE+STATS+%E2%9A%94%EF%B8%8F" alt="Battle Stats" /></a>
 
 </div>
 
-<table align="center">
+<div align="center">
+<table>
 <tr>
 <td width="50%" valign="top">
 
 ```
 ┌─────────────────────────────┐
-│      ⚡ MOVE SET ⚡          │
+│       ⚡ MOVE SET ⚡         │
 ├─────────────────────────────┤
 │                             │
 │  🐍 Python ████████████ 99 │
@@ -136,18 +100,14 @@
 </td>
 </tr>
 </table>
-
----
+</div>
 
 <div align="center">
 
-```
-██████████████████████████████████████
-█                                    █
-█       🛠️  ITEMS  IN  BAG  🛠️      █
-█                                    █
-██████████████████████████████████████
-```
+---
+
+<!-- ITEMS IN BAG Section Header -->
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=18&duration=4000&pause=5000&color=FF0000&center=true&vCenter=true&repeat=true&width=500&height=50&lines=%F0%9F%9B%A0%EF%B8%8F+ITEMS+IN+BAG+%F0%9F%9B%A0%EF%B8%8F" alt="Items in Bag" /></a>
 
 <br/>
 
@@ -158,20 +118,12 @@
 <!-- Activity Graph -->
 <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=akshsgaur&hide_border=true&bg_color=1a1a2e&color=ffcb05&line=ff0000&point=ffcb05&area=true&area_color=ff000030&custom_title=⚡%20Tall%20Grass%20Activity" />
 
-</div>
-
 ---
 
-<div align="center">
-
+<!-- Footer -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:cc0000,25:ff0000,50:ffcb05,75:ff0000,100:cc0000&height=100&section=footer" />
 
-```
-"I see now that the circumstances of
- one's build are irrelevant; it is
- what you do with the git push that
- determines who you are."
-              — Mewtwo, probably
-```
+<!-- Mewtwo Quote as Typing -->
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=9&duration=4000&pause=2000&color=FFCB05&center=true&vCenter=true&repeat=true&width=700&height=60&lines=%22The+circumstances+of+one's+build+are+irrelevant%22;%22It+is+what+you+do+with+the+git+push%22;%22that+determines+who+you+are%22+%E2%80%94+Mewtwo" alt="Mewtwo Quote" /></a>
 
 </div>
